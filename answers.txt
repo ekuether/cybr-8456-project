@@ -1,0 +1,6 @@
+Folder A -> Java (launch4j exe wrapper)
+Folder B -> Rust (normal rustc operation)
+Folder C -> C (O3 Optimization)
+Folder D -> Python (Pyinstaller package)
+Folder E -> C (No optimization)
+Folder F -> C (O2 optimization)
